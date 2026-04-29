@@ -30,9 +30,11 @@ int main(){
     set.push_back(98);
     set.push_back(23);
     set.push_back(12);
+    set.push_back(89);
     vector<int>subset;
     subset.push_back(12);
     subset.push_back(45);
+    subset.push_back(89);
     if(s1.isSubset(set,subset)){
         cout<<"true";
     }else{

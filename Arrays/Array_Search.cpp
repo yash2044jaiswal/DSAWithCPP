@@ -20,6 +20,7 @@ int main(){
     ans.push_back(4);
     ans.push_back(45);
     ans.push_back(5);
+    ans.push_back(900);
     cout<<"searching:"<<a.search(ans,5);
 
     return 0;

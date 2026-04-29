@@ -20,6 +20,7 @@ int main(){
     demo.push_back(45);
     demo.push_back(90);
     demo.push_back(5);
+    demo.push_back(89);
     cout<<"Maximum Element is:"<<m1.maximum_Element(demo);
     return 0;
 

@@ -19,8 +19,8 @@ Currently Learning:
 DSA/
 │
 ├── Array/
-│   ├── basic/
-│   └── easy/
+│   ├── Basic/
+│   └── Easy/
 │
 └── README.md
 ```

@@ -10,7 +10,7 @@ Currently Learning:{Daile One Problem solving}
 
 * ✅ Basic Problems
 * ✅ Easy Problems
-* 🔄 Medium Problems (In Progress)
+* 🔄 Medium Problems 
 * ⏳ Hard Problems
 
 ## 📂 Repository Structure

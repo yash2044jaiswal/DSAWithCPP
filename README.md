@@ -52,7 +52,7 @@ DSA/
 * [ ] Sorting
 * [ ] Binary Search
 * [ ] Trees
-* [ ] Binary Search Trees
+* [ ] Binary Tree Search 
 * [ ] Heap
 * [ ] Graph
 * [ ] Dynamic Programming

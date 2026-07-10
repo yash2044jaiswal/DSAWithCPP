@@ -21,4 +21,5 @@ int main(){
     Solution s1;
     vector<int>arr={12,3,13,234,43};
     cout<<"Answer:"<<s1.multiply(arr)<<endl;
+    return 0;
 }

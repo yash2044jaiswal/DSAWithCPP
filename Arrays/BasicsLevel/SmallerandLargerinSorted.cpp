@@ -22,6 +22,7 @@ class Solution {
         return res;
     }
 };
+//main method  for calling function
 int main() {
     Solution s1;
     vector<int> array = {1, 2, 3, 4, 5};

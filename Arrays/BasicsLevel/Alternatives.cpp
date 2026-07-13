@@ -5,6 +5,7 @@ class Solution {
     vector<int> getAlternates(vector<int> &arr) {
         vector<int> res;
         int i=0;
+      
         while(i<arr.size()){
             res.push_back(arr[i]);
             i=i+2;

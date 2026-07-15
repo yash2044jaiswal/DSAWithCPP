@@ -12,6 +12,7 @@ class Solution {
             }
             return original == rev;
         }
+        
     bool isPalinArray(vector<int> &arr) {
         // code here
         

@@ -16,6 +16,7 @@ class Solution {
            if(arr[i]<=target){
                mincount++;
            }
+           
         }
         res.push_back(mincount);
         res.push_back(maxcount);

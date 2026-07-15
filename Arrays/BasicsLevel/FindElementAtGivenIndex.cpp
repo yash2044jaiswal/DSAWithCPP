@@ -7,6 +7,7 @@ class Solution {
         return arr[i];
     }
 };
+
 int main() {
     Solution s1;
     vector<int> array = {10, 20, 30, 40, 50};

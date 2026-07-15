@@ -7,6 +7,7 @@ class Solution{
         arr.push_back(val);
     }
 };
+
 int main(){
     Solution s1;
     vector<int>arr={12,13,43,43,23,1,3};

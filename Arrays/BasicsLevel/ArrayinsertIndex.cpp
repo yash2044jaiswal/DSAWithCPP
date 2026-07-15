@@ -8,6 +8,7 @@ class Solution {
             arr[i]=arr[i-1];
         }
         
+        
         arr[index]=val;
         
     }

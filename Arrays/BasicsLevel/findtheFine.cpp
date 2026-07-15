@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 class Solution {
   public:
     long long int totalFine(int date, vector<int> &car, vector<int> &fine) {

@@ -14,6 +14,7 @@ class Solution {
         return str1;
     }
 };
+
 int main() {
     Solution s1;
     vector<string> array = {"apple", "banana", "cherry", "date"};

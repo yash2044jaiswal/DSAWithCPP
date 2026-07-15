@@ -16,6 +16,7 @@ class Solution {
         int res=rightsum*leftsum;
         return res;
     }
+    
 };
 int main(){
     Solution s1;

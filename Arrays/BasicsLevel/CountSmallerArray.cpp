@@ -13,6 +13,7 @@ class Solution {
         return count;
     }
 };
+
 int main(){
     Solution s1;
     vector<int>arr={12,3,2,123,3,9};

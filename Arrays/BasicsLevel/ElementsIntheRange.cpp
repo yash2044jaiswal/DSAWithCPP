@@ -13,6 +13,7 @@ class Solution {
         return required==count;
     }
 };
+
 int main() {
     Solution s1;
     vector<int> array = {1, 2, 3, 4, 5};

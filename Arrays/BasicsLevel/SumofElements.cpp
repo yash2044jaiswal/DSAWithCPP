@@ -10,6 +10,7 @@ class Solution {
         }
         return sum;
     }
+    
 };
 int main(){
     Solution s1;

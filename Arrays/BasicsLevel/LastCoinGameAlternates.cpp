@@ -17,6 +17,7 @@ class Solution {
         }
     }
 };
+
 int main() {
     Solution s1;
     vector<int> array = {5, 3, 8, 1, 4};

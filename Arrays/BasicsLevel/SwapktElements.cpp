@@ -10,6 +10,7 @@ class Solution {
         arr[k-1]=arr[n];
         arr[n]=temp;
         
+  
     }
 };
 int main(){
@@ -19,7 +20,7 @@ int main(){
     for(int i=0;i<arr.size();i++){
         cout<<arr[i]<<" ";
     }
-    s1.swapkth(arr,2);
+    s1.swapKth(arr,2);
     cout<<"After swaping:"<<endl;
     for(int i=0;i<arr.size();i++){
         cout<<arr[i]<<" ";

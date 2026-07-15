@@ -17,6 +17,7 @@ class Solution {
                 max=arr[i];
             }
         }
+        
         vector<int>res;
         res.push_back(min);
         res.push_back(max);

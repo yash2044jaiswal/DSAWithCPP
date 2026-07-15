@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 class Solution {
   public:
     int moreFrequent(vector<int>& arr, int x, int y) {

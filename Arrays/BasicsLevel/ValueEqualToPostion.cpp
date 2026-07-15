@@ -13,6 +13,7 @@ class Solution {
         return res;
     }
 };
+
 int main(){
     Solution s1;
     vector<int>array={1,12,11,4,45,6};

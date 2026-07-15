@@ -9,6 +9,7 @@ class Solution {
         arr.pop_back();
         return arr;
     }
+    
 };
 int main(){
     Solution s1;

@@ -7,6 +7,7 @@ int* game_with_number(int arr[], int n) {
     return arr;
 }
 
+
 int main() {
     int n;
     if (!(cin >> n)) {// Check if input is valid

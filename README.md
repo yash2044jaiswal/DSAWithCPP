@@ -50,7 +50,7 @@ DSA/
 * [ ] Stack
 * [ ] Queue
 * [ ] Hashing
-* [ ] Recursion
+* [x] Recursion-Basic
 * [ ] Searching
 * [ ] Sorting
 * [ ] Binary Search

@@ -7,7 +7,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 Currently Learning:{Daile One Problem solving}
 
-### Arrays
+### Array
+
 
 * ✅ Basic Problems
 * ✅ Easy Problems
